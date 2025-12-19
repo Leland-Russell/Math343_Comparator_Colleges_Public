@@ -1,0 +1,501 @@
+"","UnitID","name","missingness"
+"1",100812,"Athens State University",0.609375
+"2",100937,"Birmingham-Southern College",0.140625
+"3",101116,"South University-Montgomery",0.59375
+"4",101435,"Huntingdon College",0.140625
+"5",101675,"Miles College",0.421875
+"6",101912,"Oakwood University",0.28125
+"7",102234,"Spring Hill College",0.140625
+"8",102270,"Stillman College",0.28125
+"9",102298,"Talladega College",0.28125
+"10",102669,"Alaska Pacific University",0.28125
+"11",104586,"Embry-Riddle Aeronautical University-Prescott",0.140625
+"12",105899,"Arizona Christian University",0.28125
+"13",106342,"Lyon College",0.28125
+"14",106412,"University of Arkansas at Pine Bluff",0.15625
+"15",106713,"Central Baptist College",0.046875
+"16",106810,"Crowley's Ridge College",0.453125
+"17",107080,"Hendrix College",0.046875
+"18",107512,"Ouachita Baptist University",0.140625
+"19",107558,"University of the Ozarks",0.140625
+"20",107600,"Philander Smith University",0.421875
+"21",107877,"Williams Baptist University",0.140625
+"22",108092,"University of Arkansas-Fort Smith",0.25
+"23",110060,"Bethesda University",0.53125
+"24",111188,"California State University Maritime Academy",0.296875
+"25",112260,"Claremont McKenna College",0
+"26",112394,"University of Silicon Valley",0.40625
+"27",115409,"Harvey Mudd College",0
+"28",116846,"American Jewish University",0.515625
+"29",117104,"Life Pacific University",0.28125
+"30",117575,"Southern California Seminary",0.515625
+"31",120254,"Occidental College",0.046875
+"32",120865,"Pacific Union College",0.140625
+"33",121257,"Pitzer College",0.1875
+"34",121345,"Pomona College",0.046875
+"35",123165,"Scripps College",0.09375
+"36",123457,"Simpson University",0.28125
+"37",124292,"Thomas Aquinas College",0.140625
+"38",125727,"Westmont College",0.046875
+"39",125763,"Whittier College",0.046875
+"40",126678,"Colorado College",0.046875
+"41",127185,"Fort Lewis College",0.15625
+"42",127556,"Colorado Mesa University",0.15625
+"43",127945,"Rocky Mountain College of Art and Design",0.5625
+"44",128328,"United States Air Force Academy",0.265625
+"45",128780,"Charter Oak State College",0.515625
+"46",128902,"Connecticut College",0.140625
+"47",129774,"Mitchell College",0.28125
+"48",130110,"Paier College",0.4375
+"49",130590,"Trinity College",0
+"50",130624,"United States Coast Guard Academy",0.265625
+"51",130697,"Wesleyan University",0
+"52",132408,"Baptist University of Florida",0.140625
+"53",132602,"Bethune-Cookman University",0.140625
+"54",133492,"Eckerd College",0.140625
+"55",133526,"Edward Waters University",0.28125
+"56",133711,"Flagler College",0.140625
+"57",133979,"Florida Memorial University",0.28125
+"58",134510,"Hobe Sound Bible College",0.453125
+"59",135610,"Trinity International University-Florida",0.5625
+"60",137953,"Trinity Baptist College",0.15625
+"61",137962,"Trinity College of Florida",0.171875
+"62",138293,"Webber International University",0.28125
+"63",138309,"Rasmussen University-Florida",0.59375
+"64",138600,"Agnes Scott College",0.09375
+"65",138868,"Point University",0.140625
+"66",139153,"Beulah Heights University",0.5
+"67",139205,"Brewton-Parker College",0.28125
+"68",139250,"College of Coastal Georgia",0.171875
+"69",139393,"Covenant College",0.046875
+"70",139463,"Dalton State College",0.4375
+"71",139630,"Emmanuel University",0.28125
+"72",140234,"LaGrange College",0.28125
+"73",140340,"Herzing University-Atlanta",0.359375
+"74",140553,"Morehouse College",0.25
+"75",140696,"Oglethorpe University",0.046875
+"76",140720,"Paine College",0.28125
+"77",140872,"Reinhardt University",0.28125
+"78",141060,"Spelman College",0.09375
+"79",141185,"Toccoa Falls College",0.140625
+"80",141237,"Truett McConnell University",0.15625
+"81",141325,"Wesleyan College",0.234375
+"82",141361,"Young Harris College",0.296875
+"83",141981,"University of Hawaii-West Oahu",0.1875
+"84",142294,"The College of Idaho",0.046875
+"85",142328,"Lewis-Clark State College",0.203125
+"86",142522,"Brigham Young University-Idaho",0.140625
+"87",143084,"Augustana College",0.046875
+"88",143288,"Blackburn College",0.28125
+"89",144883,"East-West University",0.484375
+"90",144971,"Eureka College",0.140625
+"91",145497,"Hebrew Theological College",0.3125
+"92",145646,"Illinois Wesleyan University",0.140625
+"93",145691,"Illinois College",0
+"94",146427,"Knox College",0
+"95",146481,"Lake Forest College",0.046875
+"96",147244,"Millikin University",0.046875
+"97",147341,"Monmouth College",0.140625
+"98",148016,"Principia College",0.171875
+"99",148131,"Quincy University",0.140625
+"100",149505,"Trinity Christian College",0.046875
+"101",149781,"Wheaton College",0.140625
+"102",150400,"DePauw University",0.046875
+"103",150455,"Earlham College",0.046875
+"104",150604,"Franklin College",0.046875
+"105",150668,"Goshen College",0.140625
+"106",150756,"Hanover College",0.140625
+"107",150774,"Holy Cross College",0.15625
+"108",151810,"Martin University",0.5
+"109",152390,"Saint Mary's College",0.1875
+"110",152530,"Taylor University",0
+"111",152567,"Trine University",0.28125
+"112",152673,"Wabash College",0.03125
+"113",153108,"Central College",0.046875
+"114",153144,"Coe College",0.046875
+"115",153162,"Cornell College",0.046875
+"116",153241,"Divine Word College",0.34375
+"117",153302,"Emmaus Bible College",0.15625
+"118",153320,"Faith Baptist Bible College and Theological Seminary",0.140625
+"119",153384,"Grinnell College",0
+"120",153825,"Loras College",0.28125
+"121",153834,"Luther College",0.046875
+"122",154350,"Simpson College",0.140625
+"123",154527,"Wartburg College",0.046875
+"124",154590,"William Penn University",0.140625
+"125",154712,"Benedictine College",0.140625
+"126",154721,"Bethany College",0.140625
+"127",154749,"Bethel College-North Newton",0.046875
+"128",154855,"Central Christian College of Kansas",0.4375
+"129",155070,"Barclay College",0.3125
+"130",155414,"Kansas Wesleyan University",0.28125
+"131",155511,"McPherson College",0.140625
+"132",155627,"Ottawa University-Ottawa",0.140625
+"133",155900,"Southwestern College",0
+"134",155937,"Sterling College",0.140625
+"135",155973,"Tabor College",0.140625
+"136",156189,"Alice Lloyd College",0.234375
+"137",156295,"Berea College",0.140625
+"138",156356,"Brescia University",0.28125
+"139",156408,"Centre College",0.046875
+"140",156745,"Georgetown College",0.140625
+"141",157030,"Kentucky Mountain Bible College",0.265625
+"142",157058,"Kentucky State University",0.15625
+"143",157076,"Kentucky Wesleyan College",0.140625
+"144",157100,"Kentucky Christian University",0.140625
+"145",157818,"Transylvania University",0.046875
+"146",158477,"Centenary College of Louisiana",0.140625
+"147",158802,"Dillard University",0.140625
+"148",159382,"Louisiana State University-Alexandria",0.15625
+"149",160977,"Bates College",0
+"150",161004,"Bowdoin College",0.046875
+"151",161086,"Colby College",0.046875
+"152",161217,"University of Maine at Augusta",0.4375
+"153",161226,"University of Maine at Farmington",0.203125
+"154",161235,"University of Maine at Fort Kent",0.296875
+"155",161299,"Maine Maritime Academy",0.15625
+"156",161341,"University of Maine at Presque Isle",0.296875
+"157",162654,"Goucher College",0.046875
+"158",163912,"St. Mary's College of Maryland",0.15625
+"159",163976,"St. John's College",0.140625
+"160",164155,"United States Naval Academy",0.265625
+"161",164216,"Washington College",0.140625
+"162",164465,"Amherst College",0
+"163",165574,"Dean College",0.296875
+"164",165671,"Emmanuel College",0.140625
+"165",165802,"Fisher College",0.328125
+"166",165936,"Gordon College",0.140625
+"167",166018,"Hampshire College",0.1875
+"168",166054,"Hellenic College-Holy Cross Greek Orthodox School of Theology",0.296875
+"169",166124,"College of the Holy Cross",0.046875
+"170",166911,"Montserrat College of Art",0.4375
+"171",166939,"Mount Holyoke College",0.046875
+"172",167288,"Massachusetts College of Liberal Arts",0.296875
+"173",167835,"Smith College",0.078125
+"174",167996,"Stonehill College",0.140625
+"175",168218,"Wellesley College",0.09375
+"176",168281,"Wheaton College (Massachusetts)",0.046875
+"177",168342,"Williams College",0.046875
+"178",168528,"Adrian College",0.140625
+"179",168546,"Albion College",0.140625
+"180",168591,"Alma College",0.1875
+"181",168786,"Aquinas College",0.046875
+"182",170000,"Grace Christian University",0.328125
+"183",170091,"Great Lakes Christian College",0.453125
+"184",170286,"Hillsdale College",0.1875
+"185",170301,"Hope College",0
+"186",170532,"Kalamazoo College",0.046875
+"187",170639,"Lake Superior State University",0.15625
+"188",170967,"Rochester University",0.28125
+"189",171599,"The University of Olivet",0.296875
+"190",171881,"Kuyper College",0.28125
+"191",172033,"Sacred Heart Major Seminary",0.3125
+"192",173142,"Bethany Lutheran College",0.140625
+"193",173258,"Carleton College",0
+"194",173300,"Concordia College at Moorhead",0.046875
+"195",173647,"Gustavus Adolphus College",0.140625
+"196",173902,"Macalester College",0
+"197",174075,"University of Minnesota-Crookston",0.296875
+"198",174251,"University of Minnesota-Morris",0.296875
+"199",174437,"North Central University",0.28125
+"200",174525,"Oak Hills Christian College",0.453125
+"201",174747,"College of Saint Benedict",0.09375
+"202",174792,"Saint Johns University",0.09375
+"203",174844,"St Olaf College",0.046875
+"204",175430,"Blue Mountain Christian University",0.140625
+"205",175980,"Millsaps College",0.046875
+"206",176318,"Rust College",0.140625
+"207",176406,"Tougaloo College",0.28125
+"208",176789,"Calvary University",0.140625
+"209",176947,"Central Methodist University-College of Liberal Arts and Sciences",0.046875
+"210",177144,"Culver-Stockton College",0.140625
+"211",177542,"Hannibal-LaGrange University",0.140625
+"212",177551,"Harris-Stowe State University",0.4375
+"213",177940,"Lincoln University",0.46875
+"214",178369,"Missouri Valley College",0.140625
+"215",178697,"College of the Ozarks",0.140625
+"216",178767,"Stevens-The Institute of Business & Arts",0.5
+"217",179946,"Westminster College",0.140625
+"218",179955,"William Jewell College",0.046875
+"219",180106,"Carroll College",0.140625
+"220",180522,"Montana State University-Northern",0.4375
+"221",180692,"The University of Montana-Western",0.296875
+"222",181127,"Hastings College",0.234375
+"223",181738,"Union Adventist University",0.140625
+"224",181853,"York University",0.140625
+"225",182634,"Colby-Sawyer College",0.1875
+"226",182917,"Magdalen College",0.34375
+"227",183062,"Keene State College",0.296875
+"228",183071,"University of New Hampshire at Manchester",0.203125
+"229",183239,"Saint Anselm College",0
+"230",183275,"Thomas More College of Liberal Arts",0.453125
+"231",183822,"Bloomfield College",0.140625
+"232",184348,"Drew University",0
+"233",188340,"Vaughn College of Aeronautics and Technology",0.421875
+"234",189088,"Bard College",0.140625
+"235",189097,"Barnard College",0.1875
+"236",189228,"Berkeley College-New York",0.5625
+"237",189413,"Boricua College",0.453125
+"238",190099,"Colgate University",0.046875
+"239",190372,"The Cooper Union for the Advancement of Science and Art",0.140625
+"240",190646,"CUNY Medgar Evers College",0.234375
+"241",190655,"CUNY New York City College of Technology",0.234375
+"242",190983,"Elmira College",0.09375
+"243",191515,"Hamilton College",0.046875
+"244",191533,"Hartwick College",0.140625
+"245",191621,"Hilbert College",0.1875
+"246",191630,"Hobart William Smith Colleges",0.046875
+"247",191676,"Houghton University",0.046875
+"248",192864,"Marymount Manhattan College",0.140625
+"249",193399,"University of Mount Saint Vincent",0.140625
+"250",194392,"Paul Smiths College of Arts and Science",0.28125
+"251",195173,"St. Francis College",0.28125
+"252",195216,"St Lawrence University",0.140625
+"253",195304,"Sarah Lawrence College",0.046875
+"254",195526,"Skidmore College",0
+"255",196015,"SUNY College of Technology at Canton",0.296875
+"256",196024,"SUNY College of Technology at Delhi",0.296875
+"257",196033,"SUNY College of Agriculture and Technology at Cobleskill",0.15625
+"258",196042,"Farmingdale State College",0.15625
+"259",196219,"SUNY at Purchase College",0.15625
+"260",196866,"Union College",0
+"261",197027,"United States Merchant Marine Academy",0.203125
+"262",197036,"United States Military Academy",0.265625
+"263",197133,"Vassar College",0
+"264",197142,"Villa Maria College",0.234375
+"265",197230,"Wells College",0.140625
+"266",197285,"The College of Westchester",0.453125
+"267",197911,"Barton College",0.28125
+"268",197984,"Belmont Abbey College",0.140625
+"269",197993,"Bennett College",0.234375
+"270",198066,"Brevard College",0.140625
+"271",198215,"Catawba College",0.046875
+"272",198303,"Chowan University",0.140625
+"273",198385,"Davidson College",0
+"274",198507,"Elizabeth City State University",0.15625
+"275",198613,"Guilford College",0.046875
+"276",198695,"High Point University",0.046875
+"277",198756,"Johnson C Smith University",0.28125
+"278",198808,"Lees-McRae College",0.28125
+"279",198862,"Livingstone College",0.140625
+"280",198899,"Mars Hill University",0.28125
+"281",198950,"Meredith College",0.1875
+"282",199032,"Montreat College",0.28125
+"283",199111,"University of North Carolina Asheville",0.15625
+"284",199209,"North Carolina Wesleyan University",0.28125
+"285",199272,"William Peace University",0.140625
+"286",199458,"Mid-Atlantic Christian University",0.296875
+"287",199582,"Saint Augustine's University",0.28125
+"288",199607,"Salem College",0.15625
+"289",199643,"Shaw University",0.28125
+"290",199698,"St. Andrews University",0.28125
+"291",199865,"Warren Wilson College",0.140625
+"292",200059,"Dickinson State University",0.15625
+"293",200226,"Mayville State University",0.296875
+"294",200572,"Valley City State University",0.15625
+"295",201371,"Bluffton University",0.140625
+"296",201690,"Central State University",0.296875
+"297",202514,"Defiance College",0.234375
+"298",202523,"Denison University",0.046875
+"299",202903,"Gods Bible School and College",0.34375
+"300",203128,"Hiram College",0.28125
+"301",203535,"Kenyon College",0
+"302",203845,"Marietta College",0.140625
+"303",204006,"Miami University-Hamilton",0.515625
+"304",204015,"Miami University-Middletown",0.515625
+"305",204468,"Notre Dame College",0.28125
+"306",204501,"Oberlin College",0.046875
+"307",204635,"Ohio Northern University",0.046875
+"308",204671,"Ohio State University-Lima Campus",0.46875
+"309",204909,"Ohio Wesleyan University",0
+"310",205027,"Pontifical College Josephinum",0.375
+"311",206507,"Wilmington College",0.046875
+"312",206525,"Wittenberg University",0.140625
+"313",206589,"The College of Wooster",0.046875
+"314",206613,"Wright State University-Lake Campus",0.3125
+"315",206817,"Bacone College",0.359375
+"316",207157,"Randall University",0.15625
+"317",207351,"Oklahoma Panhandle State University",0.4375
+"318",207661,"Rogers State University",0.4375
+"319",207722,"University of Science and Arts of Oklahoma",0.15625
+"320",207856,"Southwestern Christian University",0.4375
+"321",209056,"Lewis & Clark College",0
+"322",209065,"Linfield University",0.1875
+"323",209506,"Oregon Institute of Technology",0.15625
+"324",209922,"Reed College",0
+"325",210304,"Warner Pacific University",0.28125
+"326",210401,"Willamette University",0
+"327",210492,"Bryn Athyn College of the New Church",0.21875
+"328",210571,"Albright College",0.28125
+"329",210669,"Allegheny College",0
+"330",211273,"Bryn Mawr College",0.09375
+"331",211291,"Bucknell University",0
+"332",211477,"Central Penn College",0.40625
+"333",211608,"Cheyney University of Pennsylvania",0.4375
+"334",212009,"Dickinson College",0.1875
+"335",212577,"Franklin and Marshall College",0.046875
+"336",212674,"Gettysburg College",0
+"337",212805,"Grove City College",0.203125
+"338",212911,"Haverford College",0.046875
+"339",213251,"Juniata College",0.046875
+"340",213303,"Keystone College",0.1875
+"341",213385,"Lafayette College",0.046875
+"342",213668,"Lycoming College",0.046875
+"343",214166,"Mount Aloysius College",0.140625
+"344",214175,"Muhlenberg College",0.046875
+"345",214883,"Peirce College",0.46875
+"346",215266,"University of Pittsburgh-Bradford",0.15625
+"347",215275,"University of Pittsburgh-Greensburg",0.15625
+"348",215284,"University of Pittsburgh-Johnstown",0.15625
+"349",215798,"Saint Vincent College",0.046875
+"350",216278,"Susquehanna University",0.046875
+"351",216287,"Swarthmore College",0.046875
+"352",216357,"Thiel College",0.1875
+"353",216524,"Ursinus College",0.046875
+"354",216542,"University of Valley Forge",0.28125
+"355",216667,"Washington & Jefferson College",0
+"356",216807,"Westminster College",0.140625
+"357",217624,"Allen University",0.28125
+"358",217721,"Benedict College",0.140625
+"359",217873,"Claflin University",0.28125
+"360",218070,"Furman University",0.046875
+"361",218229,"Lander University",0.15625
+"362",218238,"Limestone University",0.28125
+"363",218399,"Morris College",0.421875
+"364",218414,"Newberry College",0.140625
+"365",218539,"Presbyterian College",0.140625
+"366",218654,"University of South Carolina Beaufort",0.296875
+"367",218742,"University of South Carolina-Upstate",0.15625
+"368",218919,"Voorhees University",0.421875
+"369",218973,"Wofford College",0
+"370",219091,"Dakota Wesleyan University",0.046875
+"371",219505,"American Baptist College",0.4375
+"372",220181,"Fisk University",0.140625
+"373",220206,"Welch College",0.453125
+"374",220598,"Lane College",0.421875
+"375",220604,"Le Moyne-Owen College",0.28125
+"376",220701,"The University of Tennessee Southern",0.15625
+"377",220710,"Maryville College",0
+"378",221351,"Rhodes College",0.046875
+"379",221519,"The University of the South",0.046875
+"380",221731,"Tennessee Wesleyan University",0.140625
+"381",222877,"Arlington Baptist University",0.484375
+"382",222983,"Austin College",0.140625
+"383",224244,"Dallas Christian College",0.15625
+"384",225201,"Hallmark University",0.375
+"385",225548,"Howard Payne University",0.140625
+"386",225575,"Huston-Tillotson University",0.140625
+"387",225885,"Jarvis Christian University",0.421875
+"388",226587,"McMurry University",0.140625
+"389",226879,"Wade College",0.59375
+"390",227429,"Paul Quinn College",0.28125
+"391",228343,"Southwestern University",0.046875
+"392",228468,"Southwestern Adventist University",0.140625
+"393",228884,"Texas College",0.421875
+"394",228981,"Texas Lutheran University",0.078125
+"395",229267,"Trinity University",0
+"396",229887,"Wiley University",0.421875
+"397",230047,"Brigham Young University-Hawaii",0.140625
+"398",230171,"Utah Tech University",0.4375
+"399",230816,"Bennington College",0.046875
+"400",230959,"Middlebury College",0.046875
+"401",231059,"Saint Michael's College",0.046875
+"402",231095,"Sterling College",0.3125
+"403",231581,"Bridgewater College",0.046875
+"404",232089,"Ferrum College",0.1875
+"405",232256,"Hampden-Sydney College",0.0625
+"406",232308,"Hollins University",0.09375
+"407",232681,"University of Mary Washington",0.15625
+"408",233295,"Randolph-Macon College",0.046875
+"409",233301,"Randolph College",0.140625
+"410",233374,"University of Richmond",0
+"411",233426,"Roanoke College",0.046875
+"412",233611,"Southern Virginia University",0.140625
+"413",233718,"Sweet Briar College",0.09375
+"414",233897,"University of Virginia's College at Wise",0.15625
+"415",234085,"Virginia Military Institute",0.15625
+"416",234164,"Virginia Union University",0.1875
+"417",234173,"Virginia Wesleyan University",0.140625
+"418",234207,"Washington and Lee University",0
+"419",236328,"University of Puget Sound",0.046875
+"420",237057,"Whitman College",0
+"421",237181,"Bethany College",0.140625
+"422",237215,"Bluefield State University",0.15625
+"423",237358,"Davis & Elkins College",0.046875
+"424",237385,"Glenville State University",0.4375
+"425",237950,"West Virginia University Institute of Technology",0.15625
+"426",237969,"West Virginia Wesleyan College",0.046875
+"427",238333,"Beloit College",0.046875
+"428",239017,"Lawrence University",0.046875
+"429",239512,"Northland College",0.140625
+"430",239628,"Ripon College",0
+"431",239716,"Saint Norbert College",0
+"432",240338,"Wisconsin Lutheran College",0.140625
+"433",241100,"American University of Puerto Rico",0.5
+"434",241386,"Caribbean University-Carolina",0.484375
+"435",241720,"Colegio Universitario de San Juan",0.375
+"436",242644,"Inter American University of Puerto Rico-Barranquitas",0.34375
+"437",242662,"Inter American University of Puerto Rico-Ponce",0.34375
+"438",242680,"Inter American University of Puerto Rico-Fajardo",0.359375
+"439",242699,"Inter American University of Puerto Rico-Guayama",0.34375
+"440",242705,"Inter American University of Puerto Rico-Bayamon",0.3125
+"441",243106,"University of Puerto Rico-Aguadilla",0.265625
+"442",243115,"University of Puerto Rico-Arecibo",0.359375
+"443",243133,"University of Puerto Rico-Bayamon",0.359375
+"444",243142,"University of Puerto Rico-Carolina",0.265625
+"445",243151,"University of Puerto Rico at Cayey",0.234375
+"446",243179,"University of Puerto Rico-Humacao",0.328125
+"447",243212,"University of Puerto Rico at Ponce",0.359375
+"448",243586,"Pontifical Catholic University of Puerto Rico-Mayaguez",0.3125
+"449",245652,"St. John's College",0.140625
+"450",262129,"New College of Florida",0.15625
+"451",363907,"Caribbean University-Ponce",0.453125
+"452",363916,"Caribbean University-Vega Baja",0.46875
+"453",363934,"University of Advancing Technology",0.40625
+"454",366003,"South Florida Bible College and Theological Seminary",0.515625
+"455",384254,"Beacon College",0.296875
+"456",399911,"Soka University of America",0.203125
+"457",420042,"University of Phoenix-Hawaii",0.609375
+"458",428259,"Ottawa University-Milwaukee",0.59375
+"459",439862,"Pacific Islands University",0.34375
+"460",440396,"New Saint Andrews College",0.234375
+"461",440794,"Pillar College",0.46875
+"462",441900,"Nevada State University",0.328125
+"463",442930,"University of Antelope Valley",0.59375
+"464",443410,"DigiPen Institute of Technology",0.265625
+"465",444398,"Baptist University of the Americas",0.453125
+"466",445708,"Johnson & Wales University-Charlotte",0.15625
+"467",446048,"Ave Maria University",0.28125
+"468",446233,"Ecclesia College",0.34375
+"469",447689,"Georgia Gwinnett College",0.328125
+"470",449870,"University of the West",0.3125
+"471",451927,"Patrick Henry College",0.1875
+"472",454582,"Ottawa University-Online",0.609375
+"473",455770,"Providence Christian College",0.3125
+"474",456481,"Polytechnic University of Puerto Rico-Miami",0.59375
+"475",456490,"Polytechnic University of Puerto Rico-Orlando",0.515625
+"476",457484,"Pacific Rim Christian University",0.484375
+"477",457697,"City Vision University",0.609375
+"478",458885,"Strayer University-Arkansas",0.625
+"479",459268,"South University-Virginia Beach",0.59375
+"480",461528,"Manna University",0.375
+"481",461759,"Simmons College of Kentucky",0.375
+"482",462354,"John Paul the Great Catholic University",0.171875
+"483",464226,"Ottawa University-Surprise",0.1875
+"484",475200,"Whitworth University-Adult Degree Programs",0.65625
+"485",475608,"Criswell College",0.296875
+"486",480073,"South University-Austin",0.578125
+"487",480198,"Warner Pacific University Professional and Graduate Studies",0.375
+"488",482422,"DeVry University-Arizona",0.4375
+"489",482556,"DeVry University-New Jersey",0.4375
+"490",482574,"DeVry University-Ohio",0.421875
+"491",482936,"Florida Polytechnic University",0.1875
+"492",483018,"Antioch College",0.3125
+"493",484473,"University of Florida-Online",0.234375
+"494",484710,"University of Phoenix-Nevada",0.625
+"495",487603,"Northwest University-Center for Online and Extended Education",0.5
+"496",488785,"University of Saint Katherine",0.421875
+"497",491288,"University of Wisconsin-Milwaukee Flex",0.46875
+"498",492801,"Drury University-College of Continuing Professional Studies",0.4375
+"499",492962,"Indiana Institute of Technology-College of Professional Studies",0.5625
+"500",494685,"Urshan College",0.21875
