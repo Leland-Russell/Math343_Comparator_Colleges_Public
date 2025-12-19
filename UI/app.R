@@ -99,7 +99,7 @@ ui = page_navbar(
       htmltools::tags$a(
 	shiny::icon("github"), 
 	"Github", 
-	href = "https://github.com/pearce790/Math343_ComparatorColleges", 
+	href = "https://github.com/Leland-Russell/Math343_Comparator_Colleges_Public", 
 	target = "_blank"
       )  
     ),
@@ -107,9 +107,7 @@ ui = page_navbar(
       htmltools::tags$a(
 	shiny::icon("fa-solid fa-file-pdf"),
 	"Report",
-  
-  ## MAKE SURE WE UPDATE WHEN REPORT IS DONE
-	href = "https://hi",
+	href = "https://github.com/Leland-Russell/Math343_Comparator_Colleges_Public/blob/main/Report.pdf",
 	target = "_blank"
       )
     ),

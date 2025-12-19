@@ -1,7 +1,7 @@
 # Shiny app bin
 This is a "bin" format of the shiny app. This is not binary as the "bin" might otherwise suggest, but it uses precompiled data. Using precompiled data allows us to publicly share all of this while preserving private data, as only a few summary statistics remain from the private data.
 
-More documentation on the methodology and how these data were compiled are in the [project report](https://hi) and the private data compilation version of this file. If you do not have the private data compilation tarball, then you cannot view this part of the data compilation.
+More documentation on the methodology and how these data were compiled are in the [project report](https://github.com/Leland-Russell/Math343_Comparator_Colleges_Public/blob/main/Report.pdf) and the private data compilation version of this file. If you do not have the private data compilation tarball, then you cannot view this part of the data compilation.
 
 To run the app, you should call
 
